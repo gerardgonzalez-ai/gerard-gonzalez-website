@@ -31,7 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    'gerard_gonzalez_main.apps.PollsConfig',
+    'gerard_gonzalez_main.apps.GerardGonzalezMainConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
