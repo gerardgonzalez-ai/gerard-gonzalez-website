@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'fontawesomefree',
     'gerard_gonzalez_main.apps.GerardGonzalezMainConfig',
     'django.contrib.admin',
     'django.contrib.auth',

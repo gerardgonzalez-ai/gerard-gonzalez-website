@@ -10,4 +10,6 @@ media
 # python local virtual enviroment
 venv/
 
+# MacOs files
 
+.DS_Store
